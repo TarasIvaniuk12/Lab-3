@@ -1,0 +1,14 @@
+Start of Battle
+
+[Name:zack;HP:7.5;Now HP:-12.5;Damage:10.0;Now Damage:20.0;Prioritet:2]	 Get Damage: 20.0
+[Name:tyt;HP:40.0;Now HP:20.0;Damage:20.0;Now Damage:10.0;Prioritet:3]	 Get Damage: 20.0
+
+End of Battle
+
+Start of Battle
+
+[Name:taras;HP:342.0;Now HP:-570.0;Damage:456.0;Now Damage:912.0;Prioritet:2]	 Get Damage: 912.0
+[Name:marta ;HP:342.0;Now HP:-570.0;Damage:456.0;Now Damage:912.0;Prioritet:2]	 Get Damage: 912.0
+
+End of Battle
+
